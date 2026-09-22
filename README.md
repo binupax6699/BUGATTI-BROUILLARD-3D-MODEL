@@ -2,8 +2,8 @@ BUGATTI BROUILLARD — 3D MODEL
 
 <table>
 <tr>
-<td><img src="001.png" width="450"></td>
-<td><img src="002.png" width="450"></td>
+<td><img src="/shots/0001.png" width="450"></td>
+<td><img src="/shots/0003.png" width="450"></td>
 </tr>
 </table>
 
@@ -17,8 +17,8 @@ I used those references to study the Brouillard’s shapes and details, then pro
 
 <table>
 <tr>
-<td><img src="003.png" width="450"></td>
-<td><img src="004.png" width="450"></td>
+<td><img src="/shots/0005.png" width="450"></td>
+<td><img src="/shots/0004.png" width="450"></td>
 </tr>
 </table>
 
@@ -41,6 +41,15 @@ I started from the front bumper and gradually worked around the vehicle, first e
 * Brakes: Added brake discs and brake calipers, adapting brake components from my previous Bugatti Destrier project.
 * Additional Details: Added smaller exterior components, logos, text, surface details, and other elements before carrying out further refinement and adjustments.
 
+<table>
+<tr>
+<td><img src="/shots/0007.png" width="450"></td>
+<td><img src="/shots/0008.png" width="450"></td>
+<td><img src="/shots/0009.png" width="450"></td>
+<td><img src="/shots/0007.png" width="450"></td>
+</tr>
+</table>
+
 Materials & Textures
 
 After completing the main geometry, I developed the materials and textures for the exterior.
@@ -51,11 +60,23 @@ The Bugatti, W16, and 1600 branding was also integrated into the model using mes
 
 The materials and geometry were continuously refined together to improve the overall appearance of the finished model.
 
+<table>
+<tr>
+<td><img src="/shots/0002.png" width="700"></td>
+</tr>
+</table>
+
 Exterior Focus
 
 The project focused entirely on the exterior of the Bugatti Brouillard.
 
 The interior was not modeled, with the project instead concentrating on achieving a detailed and refined exterior that captures the overall shape, proportions, aerodynamic elements, and visual character of the vehicle.
+
+<table>
+<tr>
+<td><img src="/shots/0010.png" width="700"></td>
+</tr>
+</table>
 
 Final Model
 
