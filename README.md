@@ -2,8 +2,8 @@ BUGATTI BROUILLARD — 3D MODEL
 
 <table>
 <tr>
-<td><img src="/shots/0001.png" width="450"></td>
-<td><img src="/shots/0003.png" width="450"></td>
+<td><img src="/shots/0001.png" width="700"></td>
+<td><img src="/shots/0003.png" width="700"></td>
 </tr>
 </table>
 
