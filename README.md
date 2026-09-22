@@ -11,9 +11,9 @@ Overview
 
 A detailed 3D model of the Bugatti Brouillard, modeled and refined in Blender over approximately 60 hours.
 
-The project was developed using the Bugatti W16 Mistral as a reference for basic proportions and form, combined with reference images collected from the internet and Pinterest. The model was then progressively rebuilt and refined to recreate the distinctive exterior design of the Brouillard.
+The project was developed using the Bugatti W16 Mistral as a reference for the basic proportions and forms, combined with reference images collected from the internet and Pinterest.
 
-The official Brouillard features an all-new coupé body, sculpted surfaces, a fixed ducktail rear wing, roof-mounted air intakes, and the latest evolution of Bugatti’s W16 platform. (Bugatti Newsroom)
+I used those references to study the Brouillard’s shapes and details, then progressively built and refined the exterior of the vehicle.
 
 <table>
 <tr>
@@ -24,36 +24,42 @@ The official Brouillard features an all-new coupé body, sculpted surfaces, a fi
 
 Modeling Process
 
-The modeling process began at the front bumper, building the main body and progressively working around the vehicle.
+I started from the front bumper and gradually worked around the vehicle, first establishing the main body before moving into the smaller exterior details.
 
-* Body: Built the main exterior body and developed the shape around the required openings and cutout areas.
-* Front & Rear: Refined the front and rear sections, including the headlights and rear light assemblies.
-* Rear Wing: Modeled the fixed rear ducktail wing and integrated it into the rear bodywork. (Bugatti Newsroom)
-* Windshield: Added and refined the windshield and surrounding body surfaces.
-* Exhaust: Modeled the four exhaust outlets and surrounding rear details.
-* Mirrors: Created and refined the exterior mirrors.
-* Engine Cover: Built the rear engine cover and added the W16, Bugatti, and 1600 logos as mesh details.
-* Roof Scoops: Added the two roof-mounted air intakes with their W16 branding. (www.largus.fr)
-* Grilles: Created the front horseshoe grille as 3D mesh and added the rear grille elements.
-* Wheels: Added the rims and applied custom materials and textures.
-* Brakes: Added brake discs and calipers, reusing and adapting brake components from my previous Bugatti Destrier project.
-* Details: Added additional exterior details, logos, text, materials, and textures before continuously refining the model.
+* Main Body: Built the main exterior body and shaped it around the required openings, cutouts, and surface transitions.
+* Front End: Refined the front bumper, front bodywork, headlights, and front aerodynamic surfaces.
+* Rear Section: Built the rear bodywork and added the fixed ducktail rear wing, which forms an important part of the Brouillard’s aerodynamic design. (Bugatti Newsroom)
+* Headlights & Taillights: Modeled the front headlights and rear lighting assemblies and refined their surrounding bodywork.
+* Windshield: Created the windshield and refined the surrounding roof and body surfaces.
+* Exhaust System: Modeled the four exhaust outlets at the rear and built the surrounding bodywork around them.
+* Side Mirrors: Added and refined the exterior mirrors.
+* Engine Cover: Modeled the rear engine cover and added the W16, Bugatti, and 1600 logos as mesh details.
+* Roof Air Intakes: Added the two roof-mounted air intakes that feed air toward the W16 engine. (Bugatti Newsroom)
+* Front Grille: Created the iconic Bugatti horseshoe grille as 3D mesh and integrated it into the front bodywork. (Bugatti Newsroom)
+* Rear Grilles: Created the rear grille elements using 2D planes to reproduce the appearance of the fine mesh surfaces.
+* Wheels & Rims: Added the wheels and rims and refined their overall appearance.
+* Brakes: Added brake discs and brake calipers, adapting brake components from my previous Bugatti Destrier project.
+* Additional Details: Added smaller exterior components, logos, text, surface details, and other elements before carrying out further refinement and adjustments.
 
 Materials & Textures
 
-Basic materials were added throughout the modeling process, followed by additional textures and surface details.
+After completing the main geometry, I developed the materials and textures for the exterior.
 
-Custom texture work was used for the Bugatti logos, W16 branding, 1600 badges, text, wheels, and other exterior components.
+This included the vehicle’s paint, carbon and metallic components, wheels, brakes, grilles, logos, text, and other exterior details.
 
-The final model was continuously refined with adjustments to the geometry, materials, and small details to improve the overall appearance.
+The Bugatti, W16, and 1600 branding was also integrated into the model using mesh-based details and textures.
+
+The materials and geometry were continuously refined together to improve the overall appearance of the finished model.
 
 Exterior Focus
 
-The project focused primarily on recreating the exterior of the Brouillard.
+The project focused entirely on the exterior of the Bugatti Brouillard.
 
-The interior was not modeled, with the project instead concentrating on achieving a detailed and refined exterior model.
+The interior was not modeled, with the project instead concentrating on achieving a detailed and refined exterior that captures the overall shape, proportions, aerodynamic elements, and visual character of the vehicle.
 
-Demos
+Final Model
+
+The completed model was uploaded to Sketchfab for an interactive 3D presentation.
 
 3D Model: View the BUGATTI BROUILLARD on Sketchfab
 
