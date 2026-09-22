@@ -61,7 +61,7 @@ Final Model
 
 The completed model was uploaded to Sketchfab for an interactive 3D presentation.
 
-3D Model: View the BUGATTI BROUILLARD on Sketchfab
+3D Model: [View the BUGATTI BROUILLARD on Sketchfab] (https://sketchfab.com/3d-models/bugatti-brouillard-f6331807656f4bb0ade1227a0cdf7130)
 
 Project Info
 
