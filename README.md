@@ -90,6 +90,17 @@ The completed model was uploaded to Sketchfab for an interactive 3D presentation
 
 3D Model: [View the BUGATTI BROUILLARD on Sketchfab](https://sketchfab.com/3d-models/bugatti-brouillard-f6331807656f4bb0ade1227a0cdf7130)
 
+## License
+
+This project is licensed under **CC BY-NC 4.0**.
+
+You may **share and adapt** this work for **non-commercial purposes**, as long as you give appropriate credit to **Binupa**.
+
+**Commercial use is not permitted without permission.**
+
+Full license: [Creative Commons — CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+
+
 Project Info
 
 * Software: Blender
