@@ -79,6 +79,13 @@ The interior was not modeled, with the project instead concentrating on achievin
 
 Final Model
 
+<table>
+  <tr>
+    <td><img src="clay_img/row1.png" width="450"></td>
+    <td><img src="clay_img/row2.png" width="450"></td>
+  </tr>
+</table>
+
 The completed model was uploaded to Sketchfab for an interactive 3D presentation.
 
 3D Model: [View the BUGATTI BROUILLARD on Sketchfab](https://sketchfab.com/3d-models/bugatti-brouillard-f6331807656f4bb0ade1227a0cdf7130)
