@@ -46,7 +46,6 @@ I started from the front bumper and gradually worked around the vehicle, first e
 <td><img src="/shots/0007.png" width="450"></td>
 <td><img src="/shots/0008.png" width="450"></td>
 <td><img src="/shots/0009.png" width="450"></td>
-<td><img src="/shots/0007.png" width="450"></td>
 </tr>
 </table>
 
