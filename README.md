@@ -2,8 +2,8 @@ BUGATTI BROUILLARD — 3D MODEL
 
 <table>
 <tr>
-<td><img src="/shots/0001.png" width="700"></td>
-<td><img src="/shots/0003.png" width="700"></td>
+<td><img src="/shots/0001.png" width="500"></td>
+<td><img src="/shots/0003.png" width="500"></td>
 </tr>
 </table>
 
@@ -17,8 +17,8 @@ I used those references to study the Brouillard’s shapes and details, then pro
 
 <table>
 <tr>
-<td><img src="/shots/0005.png" width="450"></td>
-<td><img src="/shots/0004.png" width="450"></td>
+<td><img src="/shots/0005.png" width="500"></td>
+<td><img src="/shots/0004.png" width="500"></td>
 </tr>
 </table>
 
